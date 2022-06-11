@@ -1,0 +1,104 @@
+
+body{
+	
+}
+
+.logo{
+    margin-top: 50px;
+    left: 36.7%;
+    max-width: 25%;
+    padding: 20px;
+    text-align: center;
+    width: 460;
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    font-size: 50px;
+    border-style: solid;
+    border-color: black;
+    border-width: 6px;
+}
+
+
+@keyframes image{
+	0%{
+		color:#f54242;
+	}
+
+	33%{
+		color:#42f5f2;
+	}
+
+	66%{
+		color:#8df542;
+	}
+
+	100%{
+		color:#e042f5;
+	}
+
+}
+
+#countdown_text{
+    border-radius: 30px;
+    padding: 20px;
+	animation:image 4s infinite alternate;
+	-webkit-animation:image 4s infinite alternate;
+	-moz-animation:image 4s infinite alternate;
+    left: 30%;
+    right:30%;
+        top: 400px;
+    position: absolute;
+  text-align: center;
+    width: 40%;;
+    font-family: 'Montserrat', sans-serif;
+  font-size: 45px;
+  margin-top: 0px;
+}
+#countdown_gun{
+        top: 220px;
+
+    position: absolute;
+  text-align: center;
+    left: 15%;
+    width: 8%;
+    font-family: 'Montserrat', sans-serif;
+  font-size: 60px;
+  margin-top: 0px;
+}
+
+#countdown_saat{
+        top: 220px;
+
+    text-align: center;
+    position: absolute;
+        width:8%;
+    left: 35%;
+
+  text-align: center;
+    font-family: 'Montserrat', sans-serif;
+  font-size: 60px;
+  margin-top: 0px;
+}
+
+#countdown_dak{
+        top: 220px;
+
+    position: absolute;
+        width: 10%;
+    right: 34%;
+  text-align: center;
+    font-family: 'Montserrat', sans-serif;
+  font-size: 60px;
+  margin-top: 0px;
+}
+
+#countdown_san{
+    top: 220px;
+    position: absolute;
+        width: 10%;
+    right: 14%;
+  text-align: center;
+    font-family: 'Montserrat', sans-serif;
+  font-size: 60px;
+  margin-top: 0px;
+}
