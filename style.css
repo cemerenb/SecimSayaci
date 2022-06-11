@@ -1,6 +1,42 @@
 
 body{
-	
+	margin: 0;
+}
+
+.cont_left{
+     margin-top: 0px;
+position: absolute;
+    width: 50%;
+    left: 10%;
+}
+
+.cont_right{
+    margin-top: 20px;
+    background-color: red;
+    position: absolute; 
+    width: 50%; 
+    right: 1px;
+    
+}
+.cont_anket{
+    width: 100%;
+    top: 660;
+    position: absolute;
+    height: 600px;
+}
+.cont_anket2{
+    width: 100%;
+    top: 1360;
+    position: absolute;
+    height: 600px;
+}
+
+.anket_header{
+    position: absolute;
+    left: 10%;
+    top: 600px;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .logo{
