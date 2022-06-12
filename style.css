@@ -3,6 +3,9 @@ body{
 	margin: 0;
 }
 @media screen and (min-width: 1450px){
+    hr{
+        display: none;
+    }
 .cont_left{
      margin-top: 0px;
 position: absolute;
@@ -209,6 +212,9 @@ position: absolute;
 /*------------------------------------------------------*/
 
 @media screen and (min-width:960px) and (max-width:1449px){
+    hr{
+        display: none;
+    }
 .cont_left{
      margin-top: 0px;
 position: absolute;
