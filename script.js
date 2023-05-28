@@ -19,7 +19,7 @@ var x = setInterval(function() {
 }, 1000);
 
 
-var countDownDate = new Date("05 14 2023 09:00:00").getTime();
+var countDownDate = new Date("06 01 2028 08:00:00").getTime();
 
 var x = setInterval(function() {
 
@@ -36,7 +36,7 @@ var x = setInterval(function() {
 }, 1000);
 
 
-var countDownDate = new Date("05 14 2023 09:00:00").getTime();
+var countDownDate = new Date("06 01 2028 08:00:00").getTime();
 
 var x = setInterval(function() {
 
@@ -52,7 +52,7 @@ var x = setInterval(function() {
 }, 1000);
 
 
-var countDownDate = new Date("05 14 2023 09:00:00").getTime();
+var countDownDate = new Date("06 01 2028 08:00:00").getTime();
 
 var x = setInterval(function() {
 
@@ -67,7 +67,7 @@ var x = setInterval(function() {
     
 }, 1000);
 
-var countDownDate1 = new Date("05 14 2023 09:00:00").getTime();
+var countDownDate1 = new Date("06 01 2028 08:00:00").getTime();
 
 var x = setInterval(function() {
 
