@@ -96,7 +96,13 @@ position: absolute;
     height: 600px;
 }
 
-
+.anket_info{
+    position: absolute;
+    left: 10%;
+    top: 540px;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
 
 .anket_header{
     position: absolute;
